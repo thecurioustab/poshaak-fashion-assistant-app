@@ -4,23 +4,6 @@
 
 POSHAAK is an AI-assisted digital wardrobe and personal styling app. Snap the clothes you already own, and it builds outfit ideas from *only* those clothes for college, work, parties and more.
 
-> "I had nothing to wear… so I built an app."
-
-<p>
-  <img src="docs/screenshots/welcome.png" width="200" alt="Welcome screen">
-  <img src="docs/screenshots/home.png" width="200" alt="Home with outfit discovery">
-  <img src="docs/screenshots/recs.png" width="200" alt="Outfit recommendations">
-  <img src="docs/screenshots/look.png" width="200" alt="Outfit details">
-</p>
-<p>
-  <img src="docs/screenshots/home-empty.png" width="200" alt="First run: unlock outfits">
-  <img src="docs/screenshots/review-edited.png" width="200" alt="Review AI-detected details">
-  <img src="docs/screenshots/wardrobe.png" width="200" alt="My wardrobe">
-  <img src="docs/screenshots/saved.png" width="200" alt="Saved looks">
-</p>
-
----
-
 ## What it does
 
 | | |
